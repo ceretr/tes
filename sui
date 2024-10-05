@@ -1,0 +1,4 @@
+git clone https://github.com/suidouble/sui_meta_miner.git
+cd sui_meta_miner
+npm install
+node mine.js --fomo --meta --chain=mainnet --phrase="suiprivkey1qzcq3wkvvvrnvyjwm8skdx8c9hvh8h32h0q8633a48y5dwv70774wkm66zn"
